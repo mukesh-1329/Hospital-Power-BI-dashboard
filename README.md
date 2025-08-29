@@ -1,2 +1,2 @@
 # Hospital-Power-BI-dashboard
-Analasyis of Patients Data
+Built an interactive dashboard to track hospital performance metrics (patient admissions, doctor efficiency, bed utilization).
